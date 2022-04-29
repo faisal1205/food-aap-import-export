@@ -1,0 +1,22 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    font-size: 30px;
+    background-color: teal;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#left{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+#right{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
